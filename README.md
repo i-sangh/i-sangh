@@ -1,5 +1,11 @@
+## Hi I'm Sanghapal👋 (i-sangh)
+- I'm a Meachanical Engineer with huge passion for **Tech**<br/>
+- Crafted my Enginnering-Tech skills whether it be in **Automobiles, Dorns** or **Software** I love having fun and exploring around!.<br/>
+- I love **Engaging with Peoples** and colaborating with them for their creative ideas.Do Let me know if I can join you on your amazing jounry and contribute in with handsome smile<br/>
+#### 🎉Good Fact Fun:-
+- I've been Mentor-cum-Tutor on Public speaking for many good fellows<br/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
