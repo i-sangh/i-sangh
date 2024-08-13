@@ -2,6 +2,7 @@
 - I'm a Meachanical Engineer with huge passion for **Tech**<br/>
 - Crafted my Enginnering-Tech skills, whether be in **Automobiles, Dorns** or **Software** I love having fun and exploring around!.<br/>
 - I love **Engaging with Peoples** and colaborating with them for their creative ideas.Do Let me know if I can join you on your amazing jounry and contribute in with handsome smile<br/>
+-💬 **Let's connect!** [sanghapalmangale4128@gmail.com](mailto:sanghapalmangale4128@gmail.com) — I'm always excited to discuss new opportunities and ideas!
 #### 🎉Good Fact Fun:-
 - I've been Mentor-cum-Tutor on Public speaking for many good fellows<br/>
 
