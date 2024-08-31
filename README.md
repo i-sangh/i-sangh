@@ -1,10 +1,18 @@
 ## Hi I'm Sanghapal👋 (i-sangh)
-- I'm a Meachanical Engineer with huge passion for **Tech**<br/>
-- Crafted my Enginnering-Tech skills, whether be in **Automobiles, Dorns** or **Software** I love having fun and exploring around!.<br/>
-- I love **Engaging with Peoples** and colaborating with them for their creative ideas.Do Let me know if I can join you on your amazing jounry and contribute in with handsome smile<br/>
-- **Let's connect!** [sanghapalmangale4128@gmail.com](mailto:sanghapalmangale4128@gmail.com) — Excited to discuss new opportunities and ideas!<br/>
-#### 🎉Good Fact Fun:-
-- I've been Mentor-cum-Tutor on Public speaking for many good fellows<br/>
+- I'm a Mechanical Engineer with a huge passion for **Tech**<br/>
+- Crafted my Engineering-Tech skills, whether in **Automobiles, Drones**, or **Software**, I love having fun and exploring around!<br/>
+- I love **Engaging with People** and collaborating with them on their creative ideas. Do let me know if I can join you on your amazing journey and contribute with a handsome smile!<br/>
+- **Let's connect!** — Excited to discuss new opportunities and ideas!<br/>
+
+### 🌐 Social
+<a href="https://www.linkedin.com/in/sanghapal-mangale-67a060266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" style="height: 25px;">
+</a> 
+<a href="mailto:sanghapalmangale4128@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail Logo" style="height: 25px;">
+</a>
+
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
